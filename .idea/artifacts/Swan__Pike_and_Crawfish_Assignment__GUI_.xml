@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Swan, Pike and Crawfish Assignment (GUI)">
+    <output-path>$PROJECT_DIR$/out/artifacts/Swan__Pike_and_Crawfish_Assignment__GUI_</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="fxapp.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Swan__Pike_and_Crawfish_Assignment__GUI_.jar">
+        <element id="module-output" name="Swan, Pike and Crawfish Assignment (GUI)" />
+      </element>
+    </root>
+  </artifact>
+</component>
